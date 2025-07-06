@@ -4,9 +4,9 @@
 #include "CST820.h"
 
 // WiFi / MQTT
-const char* ssid = "franzblumen";
-const char* password = "30280775";
-const char* mqtt_server = "192.168.1.106";
+const char* ssid = "XXXXX";
+const char* password = "XXXXX";
+const char* mqtt_server = "XXXX";
 
 // TFT & Touch
 TFT_eSPI tft = TFT_eSPI();
